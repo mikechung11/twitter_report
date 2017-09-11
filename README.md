@@ -2,46 +2,46 @@
 A Twitter API project that grades your Twitter page's activity.
 
 # Basic To Do List
-- ~~Create Database Table~~
-- ~~Insert Stored Procedure~~
-- ~~Select All Stored Procedure~~
-- ~~Select By Id Stored Procedure~~
-- ~~Update Stored Procedure~~
-- ~~Delete Stored Procedure~~
+- ~~Create Database Table~~  Not required, Using Twitter API
+- ~~Insert Stored Procedure~~  Not required, Using Twitter API
+- ~~Select All Stored Procedure~~  Not required, Using Twitter API
+- ~~Select By Id Stored Procedure~~  Not required, Using Twitter API
+- ~~Update Stored Procedure~~  Not required, Using Twitter API
+- ~~Delete Stored Procedure~~  Not required, Using Twitter API
 - Domain - Create Domain Model to match Table structure
-- ~~Request Model - Create Add Request Model~~
-- ~~Request Model - Create Update Request Model~~
+- ~~Request Model - Create Add Request Model~~  Not required, Using HTTP GET only
+- ~~Request Model - Create Update Request Model~~  Not required, Using HTTP GET only
 - Services - Create Data Services Class
-- Services - Create Insert Method
-- Services - Create Select All Method
+- ~~Services - Create Insert Method~~
+- ~~Services - Create Select All Method~~
 - Services - Create Select By Id Method
-- Services - Create Update By Id Method
-- Services - Create Delete By Id Method
-- Unit Test - Data Svcs Select All Method
+- ~~Services - Create Update By Id Method~~
+- ~~Services - Create Delete By Id Method~~
+- ~~Unit Test - Data Svcs Select All Method~~
 - Unit Test - Data Svcs Select By Id Method
-- Unit Test - Data Svcs Insert Method
-- Unit Test - Data Svcs Update Method
-- Unit Test - Data Svcs Delete Method
-- Web API - HTTP GET (Select All)
-- Web API - HTTP POST
-- Web API - HTTP PUT
-- Web API - HTTP DELETE
+- ~~Unit Test - Data Svcs Insert Method~~
+- ~~Unit Test - Data Svcs Update Method~~
+- ~~Unit Test - Data Svcs Delete Method~~
+- ~~Web API - HTTP GET (Select All)~~
+- ~~Web API - HTTP POST~~
+- ~~Web API - HTTP PUT~~
+- ~~Web API - HTTP DELETE~~
 - Web API - HTTP GET (Select By Id)
-- ReST Client - Create Test for HTTP GET (Select All)
+- ~~ReST Client - Create Test for HTTP GET (Select All)~~
 - ReST Client - Create Test for HTTP GET (Select By Id)
-- ReST Client - Create Test for HTTP POST
-- ReST Client - Create Test for HTTP PUT
-- ReST Client - Create Test for HTTP DELETE
+- ~~ReST Client - Create Test for HTTP POST~~
+- ~~ReST Client - Create Test for HTTP PUT~~
+- ~~ReST Client - Create Test for HTTP DELETE~~
 - View Controller - Index Page
 - View Controller - Manage Page
 - NG Service - Create Service Factory
-- NG Service - Create GET Select All Service Function
+- ~~NG Service - Create GET Select All Service Function~~
 - NG Service - Create GET Select By Id Service Function
-- NG Service - Create Post Service Function
-- NG Service - Create Put Service Function
-- NG Service - Create Delete Service Function
-- NG Controller - Create Select All
+- ~~NG Service - Create Post Service Function~~
+- ~~NG Service - Create Put Service Function~~
+- ~~NG Service - Create Delete Service Function~~
+- ~~NG Controller - Create Select All~~
 - NG Controller - Create Select By Id
-- NG Controller - Create Insert
-- NG Controller - Create Update
-- NG Controller - Create Delete
+- ~~NG Controller - Create Insert~~
+- ~~NG Controller - Create Update~~
+- ~~NG Controller - Create Delete~~
