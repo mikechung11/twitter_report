@@ -291,6 +291,10 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Models\TwitterReport.Models.csproj">
+      <Project>{01dd8280-b073-42fd-a1de-d2811d9fdb58}</Project>
+      <Name>TwitterReport.Models</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Services\TwitterReport.Services.csproj">
       <Project>{c8f19f72-32c3-4b6f-bce4-4173586fba88}</Project>
       <Name>TwitterReport.Services</Name>
