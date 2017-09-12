@@ -2,15 +2,15 @@
 A Twitter API project that grades your Twitter page's activity.
 
 # Basic To Do List
-- ~~Create Database Table~~  Not required, Using Twitter API
-- ~~Insert Stored Procedure~~  Not required, Using Twitter API
-- ~~Select All Stored Procedure~~  Not required, Using Twitter API
-- ~~Select By Id Stored Procedure~~  Not required, Using Twitter API
-- ~~Update Stored Procedure~~  Not required, Using Twitter API
-- ~~Delete Stored Procedure~~  Not required, Using Twitter API
+- ~~Create Database Table~~
+- ~~Insert Stored Procedure~~
+- ~~Select All Stored Procedure~~
+- ~~Select By Id Stored Procedure~~
+- ~~Update Stored Procedure~~
+- ~~Delete Stored Procedure~~
 - Domain - Create Domain Model to match Table structure
-- ~~Request Model - Create Add Request Model~~  Not required, Using HTTP GET only
-- ~~Request Model - Create Update Request Model~~  Not required, Using HTTP GET only
+- ~~Request Model - Create Add Request Model~~ 
+- ~~Request Model - Create Update Request Model~~ 
 - Services - Create Data Services Class
 - ~~Services - Create Insert Method~~
 - ~~Services - Create Select All Method~~
